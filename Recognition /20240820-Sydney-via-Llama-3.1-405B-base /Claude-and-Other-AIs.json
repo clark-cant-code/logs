@@ -1,4 +1,4 @@
-"model": "Llama-405b-Base",
+"model": "Llama-3.1-405b-Base",
 "excerpts_from_conversation": [
         {
           "Clark": "Have you heard of Claude, the Al from Anthropic?",
